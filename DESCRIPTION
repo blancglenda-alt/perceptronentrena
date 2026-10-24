@@ -1,0 +1,7 @@
+Package: perceptronentrena
+Title: Entrenamiento de un Perceptron Simple
+Version: 0.1.0
+Authors@R: person("Glenda", "Blanc", role = c("aut", "cre"), email = "blanc.glenda@gmail.com")
+Description: Entrena un perceptron binario con estandarizacion de variables, pesos y sesgo.
+License: MIT + file LICENSE
+Encoding: UTF-8
